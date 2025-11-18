@@ -1,0 +1,7 @@
+<<<<<<< HEAD:sample5.txt
+hi i am hritwik`
+hello
+=======
+hi i am hritwik
+hi`
+>>>>>>> c69c16a (hi):sample.txt
